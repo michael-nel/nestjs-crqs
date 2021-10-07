@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# IDE
+/.vscode
+
+# misc
+npm-debug.log
+
+# dist
+/dist
+
+# tests
+/test
+/coverage
+/.nyc_output
